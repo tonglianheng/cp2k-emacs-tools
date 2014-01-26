@@ -247,7 +247,7 @@
   (add-hook 'cp2k-mode-hook 'outline-minor-mode)
   ;; in outline mode, the level of header depends on the length of
   ;; match, which suits our purposes quite well
-  (setq outline-regexp "[ \t]*\\(&\\|@\\)"))
+  (setq outline-regexp "[ \t]*\\(&\\|@\\(IF\\|EN\\)\\)"))
 
 ;;;; Last line
 (provide 'cp2k-mode)
