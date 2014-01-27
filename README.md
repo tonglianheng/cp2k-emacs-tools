@@ -13,7 +13,7 @@ files. It has been tested on emacs 21, 23 and 24.
     - the sections and subsections
     - the keywords
     - the comment lines
-  - Indents lines according to the CP2K input syntax using <tab> key
+  - Indents lines according to the CP2K input syntax using the TAB key
   - Input sections can be folded or unfolded, using emacs outline
     minor mode.
     - outline-toggle-children when called on a unfolded section, folds
