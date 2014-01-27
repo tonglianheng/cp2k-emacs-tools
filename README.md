@@ -37,7 +37,9 @@ files. It has been tested on emacs 21, 23 and 24.
     - C-c C-c  outline-toggle-children
     - C-c C-a  show-all
     - C-c C-t  show-subtree
+
 * Installation
+
   You need to put cp2k-mode.el in one of your local emacs lisp
   directories, which is in the search path of your emacs installation.
 
