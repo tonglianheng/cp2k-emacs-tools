@@ -5,7 +5,7 @@ Author: Lianheng Tong
 Email:  tonglianheng@gmail.com
 
 cp2k-mode.el provides a major mode in emacs for editing CP2K input
-files. It has been tested on emacs 2.1, 2.3 and 2.4.
+files. It has been tested on emacs 21, 23 and 24.
 
 * Functionalities
   - Recognises and font-locks:
